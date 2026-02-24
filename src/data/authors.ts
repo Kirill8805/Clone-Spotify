@@ -22,7 +22,8 @@ export const authors: Author[] = [
   {
     id: "7dGJo4pcD2V6oG8kP0tJRR",
     name: "Eminem",
-    photoUrl: process.env.PUBLIC_URL + "/authors/Eminem.jpg"
+    photoUrl: process.env.PUBLIC_URL + "/authors/Eminem.jpg",
+    listeners: 67878478,
   },
   {
     id: "53XhwfbYqKCa1cC15pYq2q",
